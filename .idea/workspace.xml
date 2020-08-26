@@ -19,19 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39c48937-c7d9-4ce6-a50f-c52e21f7deeb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/fonts/linea-basic-10.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/linea-basic-10.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/linea-basic-10.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/linea-basic-10.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/icon-font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sass/component/_feature-box.scss" afterDir="false" />
+    <list default="true" id="39c48937-c7d9-4ce6-a50f-c52e21f7deeb" name="Default Changelist" comment="added feature section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/abstract/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstract/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598449743452</updated>
-      <workItem from="1598449745446" duration="6618000" />
+      <workItem from="1598449745446" duration="7051000" />
     </task>
+    <task id="LOCAL-00001" summary="added feature section">
+      <created>1598471009803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598471009803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,11 +84,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added feature section" />
+    <option name="LAST_COMMIT_MESSAGE" value="added feature section" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1598455399024">
+    <state x="423" y="47" key="RollbackChangesDialog" timestamp="1598470939678">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598455399024" />
+    <state x="423" y="47" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598470939678" />
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2" timestamp="1598471042959">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="76" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598471042959" />
+    <state x="462" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598470830504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="462" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1598470830504" />
   </component>
 </project>
